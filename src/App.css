@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Baloo+2&family=Baloo+Bhai+2&family=BioRhyme:wght@300&family=Cinzel+Decorative&family=Eczar&family=Krona+One&family=Space+Mono&family=Syne&family=Ubuntu:wght@300&family=Viaoda+Libre&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Baloo 2', cursive;
+}
+
+body{
+  background: #093163;
+}
+
